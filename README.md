@@ -1,1 +1,1 @@
-# CaseStudy4_VisualArtGallery
+VisualArtGallery
